@@ -1,2 +1,2 @@
-# Portfolio #1
-https://artpolly1.github.io/responsiveportfolio.github.io/
+# Responsive Portfolio
+https://artpolly1.github.io/responsive_portfolio_bootstrap.github.io/
